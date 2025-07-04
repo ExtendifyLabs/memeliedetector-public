@@ -1,4 +1,4 @@
-Check out the live project: https://memeliedetector.com
+Meme Lie Detector - Test Truth, Lies and Your Reflexes. Check out the live project: https://memeliedetector.com
 
 Try:
 - Truth Lie Detector Meme: https://memeliedetector.com/truth-lie-detectors/classic-truth-lie-detector
